@@ -1,7 +1,7 @@
 # MySchedueISaves - Not affiliated with TVGS
 An app that lets you customize, duplicate and import your Schedule I saves.
 
----------------
+--
 
 ### Choose your Steam profile
 ![Screenshot 2025-04-14 215055](https://github.com/user-attachments/assets/580ee519-b35b-4ead-af0d-2c60622b5cd6)
