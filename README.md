@@ -1,5 +1,6 @@
 # MySchedueISaves - Not affiliated with TVGS
 An app that lets you customize, duplicate and import your Schedule I saves.
+You can download it in [releases](https://github.com/Lenny12311212/MySchedueISaves/releases).
 
 ---
 
