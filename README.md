@@ -1,5 +1,5 @@
 # MySchedueISaves - Not affiliated with TVGS
-An app that lets you import, duplicate, delete and customize Schedule I saves. You can download it in [releases](https://github.com/Lenny12311212/MySchedueISaves/releases).
+An app that lets you import, duplicate, delete and customize Schedule I / Schedule 1 saves. You can download it in [releases](https://github.com/Lenny12311212/MySchedueISaves/releases).
 
 ---
 
